@@ -1,8 +1,10 @@
 # MISSION 7 : Je développe en langage PHP les pages dynamiques d'un site Web
 
+Projet en ligne : http://afpa-dwwm-mission7.chris-info-service.fr/index.php
+
 La base de données à installer en 'localhost' se trouve dans mvc/public/sql/mission7.sql;
 
-    Identifiant: 'root', mdp: '';
+    dbname=mission7 ; Identifiants: 'root' ; ''; (si besoin modifier connexion_bdd.php ; config.php et mvc/model/Manager.php)
 
 Identifiants utilisés pour les accès aux parties protégées des TP:
 
