@@ -4,11 +4,11 @@ Projet en ligne: http://afpa-dwwm-mission7.chris-info-service.fr/index.php
 
 Participants (par ordre alphabétique) à cette mission :
 
-    Fernandez-Garcia Chloé: https://github.com/chlo06
+   Fernandez-Garcia Chloé: https://github.com/chlo06
 
-    Mannebarth Christophe: https://github.com/Christophe-Mannebarth
+   Mannebarth Christophe: https://github.com/Christophe-Mannebarth
 
-    Meunier Quentin: https://github.com/quentinM22
+   Meunier Quentin: https://github.com/quentinM22
 
 
 La base de données à installer en 'localhost' se trouve dans mvc/public/sql/mission7.sql;
