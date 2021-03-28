@@ -1,6 +1,6 @@
 # MISSION 7 : Je développe en langage PHP les pages dynamiques d'un site Web
 
-Projet en ligne: www.afpa-dwwm-mission7.chris-info-service.fr
+Projet en ligne: https://afpa-dwwm-mission7.chris-info-service.fr/liste_travaux.php
 
 La base de données à installer en 'localhost' se trouve dans mvc/public/sql/mission7.sql;
 
@@ -12,7 +12,7 @@ Identifiants utilisés pour les accès aux parties protégées des TP:
 
     Utilisateur lambda (TP Espace membres): ID = bob / MDP = bob123
     
-Liste des travaux pratiques réalisés par l'équipe DIGI GEEKS: http://afpa-dwwm-mission7.chris-info-service.fr/liste_travaux.php
+Liste des travaux pratiques réalisés par l'équipe DIGI GEEKS: https://afpa-dwwm-mission7.chris-info-service.fr/liste_travaux.php
 
 
 Détails concernant le cours PHP et MySQL:
