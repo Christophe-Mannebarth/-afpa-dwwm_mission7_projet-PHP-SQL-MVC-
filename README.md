@@ -1,6 +1,6 @@
 # MISSION 7 : Je développe en langage PHP les pages dynamiques d'un site Web
 
-Projet en ligne: https://afpa-dwwm-mission7.chris-info-service.fr/index.php
+Projet en ligne: www.afpa-dwwm-mission7.chris-info-service.fr
 
 La base de données à installer en 'localhost' se trouve dans mvc/public/sql/mission7.sql;
 
